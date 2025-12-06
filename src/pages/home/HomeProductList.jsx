@@ -41,7 +41,7 @@ const HomeProductList = () => {
           <div className="row g-0">
             <div className="col-5">
               <div className="products-mini-img border-end h-100">
-                <img src="img/product-4.png" className="img-fluid w-100 h-100" alt="Image" />
+                <img src="/img/product-4.png" className="img-fluid w-100 h-100" alt="Image" />
                 <div className="products-mini-icon rounded-circle bg-primary">
                   <a href="#"><i className="fa fa-eye fa-1x text-white" /></a>
                 </div>
